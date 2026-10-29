@@ -5,7 +5,7 @@
 | ANDROID VERSION | MIN API | SUPPORT | ISSUES |
 | --------------- | ------- | ------- | ------ |
 | Andorid 5.x     |      21 | UNKNOWN | UNKNOWN |
-| Android 6.0     |      23 | SUPPPORTED | UNKNOWN |
+| Android 6.0     |      23 | SUPPORTED | UNKNOWN |
 | Android 7.x     |      24 | SUPPORTED | UNKNOWN |
 | Android 8.x     |      26 | SUPPORTED | NONE |
 | Android 9       |      28 | SUPPORTED | NONE |
